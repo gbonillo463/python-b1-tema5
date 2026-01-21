@@ -1,5 +1,5 @@
 """
-Enunciado:
+Enunciado: 
 Crea una clase llamada "Student" con alta cohesión, que
 almacene información básica de un estudiante (name, age y average)
 y tenga dos métodos: "describe" y "grade". El método "describe"
