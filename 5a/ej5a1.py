@@ -38,7 +38,7 @@ class Student:
     def describe(self):
         return f'Name: {self.name}, Age: {self.age}, Average: {self.average}'
     def grade(self, new_average):
-        result = (self.average + new_average)/ 2
+        result = (self.average + new_average) / 2
         self.average = result
         
         
